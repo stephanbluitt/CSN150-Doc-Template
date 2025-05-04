@@ -29,5 +29,8 @@ Note your problems or errors here.  Google any error you may come across, and no
 1. Arduino code will not load on ESP32 Cam.
    Answer: Camera drivers were incorrect I needed to install the driver: [https://www.wch-ic.com/downloads/CH341SER_ZIP.html](https://github.com/martin-ger/esp32_nat_router).  I used file, "CH341SER.ZIP" and it worked.
 
+### Pictures
+
+![install result](https://github.com/stephanbluitt/CSN150-Doc-Template/blob/main/install.png)
 
 ## Final Report
