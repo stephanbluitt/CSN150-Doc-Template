@@ -1,4 +1,4 @@
-# Cybersecurity : CSN150-Doc-Template
+# Cybersecurity : CSN150-ESP32-CAM
 
 ## Name of Project
 ESP32 Introduction
