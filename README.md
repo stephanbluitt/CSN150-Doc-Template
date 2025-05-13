@@ -34,3 +34,5 @@ Note your problems or errors here.  Google any error you may come across, and no
 ![install result](https://github.com/stephanbluitt/CSN150-Doc-Template/blob/main/install.png)
 
 ## Final Report
+
+In the image description, I have provided instructions on how to install “ESP32-CAM.”
